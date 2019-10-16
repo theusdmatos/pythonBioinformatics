@@ -1,3 +1,3 @@
 # pythonBioinformatics
 
-IDE used: Visual Studio COde
+IDE used: Visual Studio Code
