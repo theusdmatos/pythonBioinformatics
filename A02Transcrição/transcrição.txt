@@ -1,0 +1,14 @@
+O processo de transcrição permite a formação do RNA mensageiro com base na região codificante do DNA. Computacionalmente falando podemos analisar a transcrição como um processo de modificações em strings.
+
+Fita de DNA (região codificante)
+
+5' ATGGCCATTCGCAAGGGTGCCCGATAG 3'
+
+3' CTATCGGGCACCCTTGCGAATGGCCAT 5'
+Fita de DNA reversa complementar
+               |
+          Transcrição
+               |
+               v
+5' AUGGCCAUUCGCAAGGUGCCCGAUAG  3'
+        RNA mensageiro

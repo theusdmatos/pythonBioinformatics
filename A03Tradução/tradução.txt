@@ -1,0 +1,10 @@
+No processo de tradução, a sequência de RNA mensageiro será utilizada como molde para a junção dos aminoácidos, e assim, a formação da proteína.
+
+5' AUGGCCAUUCGCAAGGGUGCCCGAUAG 3'
+        RNA mensageiro
+              |
+           Tradução
+              |
+              V
+           MAIRKGAR
+           Proteína
